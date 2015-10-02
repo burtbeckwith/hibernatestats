@@ -1,0 +1,11 @@
+grails:
+   profile: web-plugin
+   doc:
+      authors: 'Mike Hugo'
+      license: 'Apache License 2.0'
+      title:   'Hibernate Stats Plugin'
+info:
+   app:
+      name: '@info.app.name@'
+      version: '@info.app.version@'
+      grailsVersion: '@info.app.grailsVersion@'

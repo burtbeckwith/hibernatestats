@@ -1,0 +1,8 @@
+*.iml
+*.iws
+*.log
+.DS_Store
+.gradle
+.idea
+.settings
+build
